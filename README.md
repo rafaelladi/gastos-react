@@ -1,3 +1,6 @@
+This project was created to help me learn the basics of React.
+It also uses mongoDB.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
